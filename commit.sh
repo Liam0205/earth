@@ -29,7 +29,7 @@ for i in $list; do
 
     git add ./README.md
     git add ./begin
-    git commit --date=$i --message="$(date -u --date=@$i '+%Y-%m-%d')."
+    git commit --date=$i --message="[general update] $(date -u --date=@$i '+%Y-%m-%d')."
 
     after='git push origin HEAD'
 done
