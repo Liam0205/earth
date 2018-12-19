@@ -1,828 +1,794 @@
-# 长者今天 GG 了吗？
+# earth
 
-> 你们媒体千万要记着，不要「见得风，是得雨」。
->
-> ——他
+Has Earth exploded today?
 
-1926年8月17日：没有
+1992-11-20: Earth has not exploded.
 
-1926年8月18日：没有
+1992-11-21: Earth has not exploded.
 
-1926年8月19日：没有
+1992-11-22: Earth has not exploded.
 
-1926年8月20日：没有
+1992-11-23: Earth has not exploded.
 
-1926年8月21日：没有
+1992-11-24: Earth has not exploded.
 
-1926年8月22日：没有
+1992-11-25: Earth has not exploded.
 
-1926年8月23日：没有
+1992-11-26: Earth has not exploded.
 
-1926年8月24日：没有
+1992-11-27: Earth has not exploded.
 
-1926年8月25日：没有
+1992-11-28: Earth has not exploded.
 
-1926年8月26日：没有
+1992-11-29: Earth has not exploded.
 
-1926年8月27日：没有
+1992-11-30: Earth has not exploded.
 
-……
+1992-12-01: Earth has not exploded.
 
-……
+1992-12-02: Earth has not exploded.
 
-……
+1992-12-03: Earth has not exploded.
 
-……
+1992-12-04: Earth has not exploded.
 
-……
+1992-12-05: Earth has not exploded.
 
-……
+1992-12-06: Earth has not exploded.
 
-2000年10月27日：没有
+1992-12-07: Earth has not exploded.
 
-2000年10月28日：没有
+1992-12-08: Earth has not exploded.
 
-2000年10月29日：没有
+1992-12-09: Earth has not exploded.
 
-2000年10月30日：没有
+1992-12-10: Earth has not exploded.
 
-2000年10月31日：没有
+1992-12-11: Earth has not exploded.
 
-2000年11月01日：没有
+1992-12-12: Earth has not exploded.
 
-2000年11月02日：没有
+1992-12-13: Earth has not exploded.
 
-2000年11月03日：没有
+1992-12-14: Earth has not exploded.
 
-2000年11月04日：没有
+1992-12-15: Earth has not exploded.
 
-2000年11月05日：没有
+1992-12-16: Earth has not exploded.
 
-2000年11月06日：没有
+1992-12-17: Earth has not exploded.
 
-2000年11月07日：没有
+1992-12-18: Earth has not exploded.
 
-2000年11月08日：没有
+1992-12-19: Earth has not exploded.
 
-2000年11月09日：没有
+1992-12-20: Earth has not exploded.
 
-2000年11月10日：没有
+1992-12-21: Earth has not exploded.
 
-2000年11月11日：没有
+1992-12-22: Earth has not exploded.
 
-2000年11月12日：没有
+1992-12-23: Earth has not exploded.
 
-2000年11月13日：没有
+1992-12-24: Earth has not exploded.
 
-2000年11月14日：没有
+1992-12-25: Earth has not exploded.
 
-2000年11月15日：没有
+1992-12-26: Earth has not exploded.
 
-2000年11月16日：没有
+1992-12-27: Earth has not exploded.
 
-2000年11月17日：没有
+1992-12-28: Earth has not exploded.
 
-2000年11月18日：没有
+1992-12-29: Earth has not exploded.
 
-2000年11月19日：没有
+1992-12-30: Earth has not exploded.
 
-2000年11月20日：没有
+1992-12-31: Earth has not exploded.
 
-2000年11月21日：没有
+......
 
-2000年11月22日：没有
+2018-01-01: Earth has not exploded.
 
-2000年11月23日：没有
+2018-01-02: Earth has not exploded.
 
-2000年11月24日：没有
+2018-01-03: Earth has not exploded.
 
-2000年11月25日：没有
+2018-01-04: Earth has not exploded.
 
-2000年11月26日：没有
+2018-01-05: Earth has not exploded.
 
-2000年11月27日：没有
+2018-01-06: Earth has not exploded.
 
-2000年11月28日：没有
+2018-01-07: Earth has not exploded.
 
-2000年11月29日：没有
+2018-01-08: Earth has not exploded.
 
-2000年11月30日：没有
+2018-01-09: Earth has not exploded.
 
-2000年12月01日：没有
+2018-01-10: Earth has not exploded.
 
-2000年12月02日：没有
+2018-01-11: Earth has not exploded.
 
-2000年12月03日：没有
+2018-01-12: Earth has not exploded.
 
-2000年12月04日：没有
+2018-01-13: Earth has not exploded.
 
-2000年12月05日：没有
+2018-01-14: Earth has not exploded.
 
-2000年12月06日：没有
+2018-01-15: Earth has not exploded.
 
-2000年12月07日：没有
+2018-01-16: Earth has not exploded.
 
-2000年12月08日：没有
+2018-01-17: Earth has not exploded.
 
-2000年12月09日：没有
+2018-01-18: Earth has not exploded.
 
-2000年12月10日：没有
+2018-01-19: Earth has not exploded.
 
-2000年12月11日：没有
+2018-01-20: Earth has not exploded.
 
-2000年12月12日：没有
+2018-01-21: Earth has not exploded.
 
-2000年12月13日：没有
+2018-01-22: Earth has not exploded.
 
-2000年12月14日：没有
+2018-01-23: Earth has not exploded.
 
-2000年12月15日：没有
+2018-01-24: Earth has not exploded.
 
-2000年12月16日：没有
+2018-01-25: Earth has not exploded.
 
-2000年12月17日：没有
+2018-01-26: Earth has not exploded.
 
-2000年12月18日：没有
+2018-01-27: Earth has not exploded.
 
-2000年12月19日：没有
+2018-01-28: Earth has not exploded.
 
-2000年12月20日：没有
+2018-01-29: Earth has not exploded.
 
-2000年12月21日：没有
+2018-01-30: Earth has not exploded.
 
-2000年12月22日：没有
+2018-01-31: Earth has not exploded.
 
-2000年12月23日：没有
+2018-02-01: Earth has not exploded.
 
-2000年12月24日：没有
+2018-02-02: Earth has not exploded.
 
-2000年12月25日：没有
+2018-02-03: Earth has not exploded.
 
-2000年12月26日：没有
+2018-02-04: Earth has not exploded.
 
-2000年12月27日：没有
+2018-02-05: Earth has not exploded.
 
-2000年12月28日：没有
+2018-02-06: Earth has not exploded.
 
-2000年12月29日：没有
+2018-02-07: Earth has not exploded.
 
-2000年12月30日：没有
+2018-02-08: Earth has not exploded.
 
-2000年12月31日：没有
+2018-02-09: Earth has not exploded.
 
-……
+2018-02-10: Earth has not exploded.
 
-……
+2018-02-11: Earth has not exploded.
 
-……
+2018-02-12: Earth has not exploded.
 
-……
+2018-02-13: Earth has not exploded.
 
-……
+2018-02-14: Earth has not exploded.
 
-……
+2018-02-15: Earth has not exploded.
 
-2018年01月01日：没有
+2018-02-16: Earth has not exploded.
 
-2018年01月02日：没有
+2018-02-17: Earth has not exploded.
 
-2018年01月03日：没有
+2018-02-18: Earth has not exploded.
 
-2018年01月04日：没有
+2018-02-19: Earth has not exploded.
 
-2018年01月05日：没有
+2018-02-20: Earth has not exploded.
 
-2018年01月06日：没有
+2018-02-21: Earth has not exploded.
 
-2018年01月07日：没有
+2018-02-22: Earth has not exploded.
 
-2018年01月08日：没有
+2018-02-23: Earth has not exploded.
 
-2018年01月09日：没有
+2018-02-24: Earth has not exploded.
 
-2018年01月10日：没有
+2018-02-25: Earth has not exploded.
 
-2018年01月11日：没有
+2018-02-26: Earth has not exploded.
 
-2018年01月12日：没有
+2018-02-27: Earth has not exploded.
 
-2018年01月13日：没有
+2018-02-28: Earth has not exploded.
 
-2018年01月14日：没有
+2018-03-01: Earth has not exploded.
 
-2018年01月15日：没有
+2018-03-02: Earth has not exploded.
 
-2018年01月16日：没有
+2018-03-03: Earth has not exploded.
 
-2018年01月17日：没有
+2018-03-04: Earth has not exploded.
 
-2018年01月18日：没有
+2018-03-05: Earth has not exploded.
 
-2018年01月19日：没有
+2018-03-06: Earth has not exploded.
 
-2018年01月20日：没有
+2018-03-07: Earth has not exploded.
 
-2018年01月21日：没有
+2018-03-08: Earth has not exploded.
 
-2018年01月22日：没有
+2018-03-09: Earth has not exploded.
 
-2018年01月23日：没有
+2018-03-10: Earth has not exploded.
 
-2018年01月24日：没有
+2018-03-11: Earth has not exploded.
 
-2018年01月25日：没有
+2018-03-12: Earth has not exploded.
 
-2018年01月26日：没有
+2018-03-13: Earth has not exploded.
 
-2018年01月27日：没有
+2018-03-14: Earth has not exploded.
 
-2018年01月28日：没有
+2018-03-15: Earth has not exploded.
 
-2018年01月29日：没有
+2018-03-16: Earth has not exploded.
 
-2018年01月30日：没有
+2018-03-17: Earth has not exploded.
 
-2018年01月31日：没有
+2018-03-18: Earth has not exploded.
 
-2018年02月01日：没有
+2018-03-19: Earth has not exploded.
 
-2018年02月02日：没有
+2018-03-20: Earth has not exploded.
 
-2018年02月03日：没有
+2018-03-21: Earth has not exploded.
 
-2018年02月04日：没有
+2018-03-22: Earth has not exploded.
 
-2018年02月05日：没有
+2018-03-23: Earth has not exploded.
 
-2018年02月06日：没有
+2018-03-24: Earth has not exploded.
 
-2018年02月07日：没有
+2018-03-25: Earth has not exploded.
 
-2018年02月08日：没有
+2018-03-26: Earth has not exploded.
 
-2018年02月09日：没有
+2018-03-27: Earth has not exploded.
 
-2018年02月10日：没有
+2018-03-28: Earth has not exploded.
 
-2018年02月11日：没有
+2018-03-29: Earth has not exploded.
 
-2018年02月12日：没有
+2018-03-30: Earth has not exploded.
 
-2018年02月13日：没有
+2018-03-31: Earth has not exploded.
 
-2018年02月14日：没有
+2018-04-01: Earth has not exploded.
 
-2018年02月15日：没有
+2018-04-02: Earth has not exploded.
 
-2018年02月16日：没有
+2018-04-03: Earth has not exploded.
 
-2018年02月17日：没有
+2018-04-04: Earth has not exploded.
 
-2018年02月18日：没有
+2018-04-05: Earth has not exploded.
 
-2018年02月19日：没有
+2018-04-06: Earth has not exploded.
 
-2018年02月20日：没有
+2018-04-07: Earth has not exploded.
 
-2018年02月21日：没有
+2018-04-08: Earth has not exploded.
 
-2018年02月22日：没有
+2018-04-09: Earth has not exploded.
 
-2018年02月23日：没有
+2018-04-10: Earth has not exploded.
 
-2018年02月24日：没有
+2018-04-11: Earth has not exploded.
 
-2018年02月25日：没有
+2018-04-12: Earth has not exploded.
 
-2018年02月26日：没有
+2018-04-13: Earth has not exploded.
 
-2018年02月27日：没有
+2018-04-14: Earth has not exploded.
 
-2018年02月28日：没有
+2018-04-15: Earth has not exploded.
 
-2018年03月01日：没有
+2018-04-16: Earth has not exploded.
 
-2018年03月02日：没有
+2018-04-17: Earth has not exploded.
 
-2018年03月03日：没有
+2018-04-18: Earth has not exploded.
 
-2018年03月04日：没有
+2018-04-19: Earth has not exploded.
 
-2018年03月05日：没有
+2018-04-20: Earth has not exploded.
 
-2018年03月06日：没有
+2018-04-21: Earth has not exploded.
 
-2018年03月07日：没有
+2018-04-22: Earth has not exploded.
 
-2018年03月08日：没有
+2018-04-23: Earth has not exploded.
 
-2018年03月09日：没有
+2018-04-24: Earth has not exploded.
 
-2018年03月10日：没有
+2018-04-25: Earth has not exploded.
 
-2018年03月11日：没有
+2018-04-26: Earth has not exploded.
 
-2018年03月12日：没有
+2018-04-27: Earth has not exploded.
 
-2018年03月13日：没有
+2018-04-28: Earth has not exploded.
 
-2018年03月14日：没有
+2018-04-29: Earth has not exploded.
 
-2018年03月15日：没有
+2018-04-30: Earth has not exploded.
 
-2018年03月16日：没有
+2018-05-01: Earth has not exploded.
 
-2018年03月17日：没有
+2018-05-02: Earth has not exploded.
 
-2018年03月18日：没有
+2018-05-03: Earth has not exploded.
 
-2018年03月19日：没有
+2018-05-04: Earth has not exploded.
 
-2018年03月20日：没有
+2018-05-05: Earth has not exploded.
 
-2018年03月21日：没有
+2018-05-06: Earth has not exploded.
 
-2018年03月22日：没有
+2018-05-07: Earth has not exploded.
 
-2018年03月23日：没有
+2018-05-08: Earth has not exploded.
 
-2018年03月24日：没有
+2018-05-09: Earth has not exploded.
 
-2018年03月25日：没有
+2018-05-10: Earth has not exploded.
 
-2018年03月26日：没有
+2018-05-11: Earth has not exploded.
 
-2018年03月27日：没有
+2018-05-12: Earth has not exploded.
 
-2018年03月28日：没有
+2018-05-13: Earth has not exploded.
 
-2018年03月29日：没有
+2018-05-14: Earth has not exploded.
 
-2018年03月30日：没有
+2018-05-15: Earth has not exploded.
 
-2018年03月31日：没有
+2018-05-16: Earth has not exploded.
 
-2018年04月01日：没有
+2018-05-17: Earth has not exploded.
 
-2018年04月02日：没有
+2018-05-18: Earth has not exploded.
 
-2018年04月03日：没有
+2018-05-19: Earth has not exploded.
 
-2018年04月04日：没有
+2018-05-20: Earth has not exploded.
 
-2018年04月05日：没有
+2018-05-21: Earth has not exploded.
 
-2018年04月06日：没有
+2018-05-22: Earth has not exploded.
 
-2018年04月07日：没有
+2018-05-23: Earth has not exploded.
 
-2018年04月08日：没有
+2018-05-24: Earth has not exploded.
 
-2018年04月09日：没有
+2018-05-25: Earth has not exploded.
 
-2018年04月10日：没有
+2018-05-26: Earth has not exploded.
 
-2018年04月11日：没有
+2018-05-27: Earth has not exploded.
 
-2018年04月12日：没有
+2018-05-28: Earth has not exploded.
 
-2018年04月13日：没有
+2018-05-29: Earth has not exploded.
 
-2018年04月14日：没有
+2018-05-30: Earth has not exploded.
 
-2018年04月15日：没有
+2018-05-31: Earth has not exploded.
 
-2018年04月16日：没有
+2018-06-01: Earth has not exploded.
 
-2018年04月17日：没有
+2018-06-02: Earth has not exploded.
 
-2018年04月18日：没有
+2018-06-03: Earth has not exploded.
 
-2018年04月19日：没有
+2018-06-04: Earth has not exploded.
 
-2018年04月20日：没有
+2018-06-05: Earth has not exploded.
 
-2018年04月21日：没有
+2018-06-06: Earth has not exploded.
 
-2018年04月22日：没有
+2018-06-07: Earth has not exploded.
 
-2018年04月23日：没有
+2018-06-08: Earth has not exploded.
 
-2018年04月24日：没有
+2018-06-09: Earth has not exploded.
 
-2018年04月25日：没有
+2018-06-10: Earth has not exploded.
 
-2018年04月26日：没有
+2018-06-11: Earth has not exploded.
 
-2018年04月27日：没有
+2018-06-12: Earth has not exploded.
 
-2018年04月28日：没有
+2018-06-13: Earth has not exploded.
 
-2018年04月29日：没有
+2018-06-14: Earth has not exploded.
 
-2018年04月30日：没有
+2018-06-15: Earth has not exploded.
 
-2018年05月01日：没有
+2018-06-16: Earth has not exploded.
 
-2018年05月02日：没有
+2018-06-17: Earth has not exploded.
 
-2018年05月03日：没有
+2018-06-18: Earth has not exploded.
 
-2018年05月04日：没有
+2018-06-19: Earth has not exploded.
 
-2018年05月05日：没有
+2018-06-20: Earth has not exploded.
 
-2018年05月06日：没有
+2018-06-21: Earth has not exploded.
 
-2018年05月07日：没有
+2018-06-22: Earth has not exploded.
 
-2018年05月08日：没有
+2018-06-23: Earth has not exploded.
 
-2018年05月09日：没有
+2018-06-24: Earth has not exploded.
 
-2018年05月10日：没有
+2018-06-25: Earth has not exploded.
 
-2018年05月11日：没有
+2018-06-26: Earth has not exploded.
 
-2018年05月12日：没有
+2018-06-27: Earth has not exploded.
 
-2018年05月13日：没有
+2018-06-28: Earth has not exploded.
 
-2018年05月14日：没有
+2018-06-29: Earth has not exploded.
 
-2018年05月15日：没有
+2018-06-30: Earth has not exploded.
 
-2018年05月16日：没有
+2018-07-01: Earth has not exploded.
 
-2018年05月17日：没有
+2018-07-02: Earth has not exploded.
 
-2018年05月18日：没有
+2018-07-03: Earth has not exploded.
 
-2018年05月19日：没有
+2018-07-04: Earth has not exploded.
 
-2018年05月20日：没有
+2018-07-05: Earth has not exploded.
 
-2018年05月21日：没有
+2018-07-06: Earth has not exploded.
 
-2018年05月22日：没有
+2018-07-07: Earth has not exploded.
 
-2018年05月23日：没有
+2018-07-08: Earth has not exploded.
 
-2018年05月24日：没有
+2018-07-09: Earth has not exploded.
 
-2018年05月25日：没有
+2018-07-10: Earth has not exploded.
 
-2018年05月26日：没有
+2018-07-11: Earth has not exploded.
 
-2018年05月27日：没有
+2018-07-12: Earth has not exploded.
 
-2018年05月28日：没有
+2018-07-13: Earth has not exploded.
 
-2018年05月29日：没有
+2018-07-14: Earth has not exploded.
 
-2018年05月30日：没有
+2018-07-15: Earth has not exploded.
 
-2018年05月31日：没有
+2018-07-16: Earth has not exploded.
 
-2018年06月01日：没有
+2018-07-17: Earth has not exploded.
 
-2018年06月02日：没有
+2018-07-18: Earth has not exploded.
 
-2018年06月03日：没有
+2018-07-19: Earth has not exploded.
 
-2018年06月04日：没有
+2018-07-20: Earth has not exploded.
 
-2018年06月05日：没有
+2018-07-21: Earth has not exploded.
 
-2018年06月06日：没有
+2018-07-22: Earth has not exploded.
 
-2018年06月07日：没有
+2018-07-23: Earth has not exploded.
 
-2018年06月08日：没有
+2018-07-24: Earth has not exploded.
 
-2018年06月09日：没有
+2018-07-25: Earth has not exploded.
 
-2018年06月10日：没有
+2018-07-26: Earth has not exploded.
 
-2018年06月11日：没有
+2018-07-27: Earth has not exploded.
 
-2018年06月12日：没有
+2018-07-28: Earth has not exploded.
 
-2018年06月13日：没有
+2018-07-29: Earth has not exploded.
 
-2018年06月14日：没有
+2018-07-30: Earth has not exploded.
 
-2018年06月15日：没有
+2018-07-31: Earth has not exploded.
 
-2018年06月16日：没有
+2018-08-01: Earth has not exploded.
 
-2018年06月17日：没有
+2018-08-02: Earth has not exploded.
 
-2018年06月18日：没有
+2018-08-03: Earth has not exploded.
 
-2018年06月19日：没有
+2018-08-04: Earth has not exploded.
 
-2018年06月20日：没有
+2018-08-05: Earth has not exploded.
 
-2018年06月21日：没有
+2018-08-06: Earth has not exploded.
 
-2018年06月22日：没有
+2018-08-07: Earth has not exploded.
 
-2018年06月23日：没有
+2018-08-08: Earth has not exploded.
 
-2018年06月24日：没有
+2018-08-09: Earth has not exploded.
 
-2018年06月25日：没有
+2018-08-10: Earth has not exploded.
 
-2018年06月26日：没有
+2018-08-11: Earth has not exploded.
 
-2018年06月27日：没有
+2018-08-12: Earth has not exploded.
 
-2018年06月28日：没有
+2018-08-13: Earth has not exploded.
 
-2018年06月29日：没有
+2018-08-14: Earth has not exploded.
 
-2018年06月30日：没有
+2018-08-15: Earth has not exploded.
 
-2018年07月01日：没有
+2018-08-16: Earth has not exploded.
 
-2018年07月02日：没有
+2018-08-17: Earth has not exploded.
 
-2018年07月03日：没有
+2018-08-18: Earth has not exploded.
 
-2018年07月04日：没有
+2018-08-19: Earth has not exploded.
 
-2018年07月05日：没有
+2018-08-20: Earth has not exploded.
 
-2018年07月06日：没有
+2018-08-21: Earth has not exploded.
 
-2018年07月07日：没有
+2018-08-22: Earth has not exploded.
 
-2018年07月08日：没有
+2018-08-23: Earth has not exploded.
 
-2018年07月09日：没有
+2018-08-24: Earth has not exploded.
 
-2018年07月10日：没有
+2018-08-25: Earth has not exploded.
 
-2018年07月11日：没有
+2018-08-26: Earth has not exploded.
 
-2018年07月12日：没有
+2018-08-27: Earth has not exploded.
 
-2018年07月13日：没有
+2018-08-28: Earth has not exploded.
 
-2018年07月14日：没有
+2018-08-29: Earth has not exploded.
 
-2018年07月15日：没有
+2018-08-30: Earth has not exploded.
 
-2018年07月16日：没有
+2018-08-31: Earth has not exploded.
 
-2018年07月17日：没有
+2018-09-01: Earth has not exploded.
 
-2018年07月18日：没有
+2018-09-02: Earth has not exploded.
 
-2018年07月19日：没有
+2018-09-03: Earth has not exploded.
 
-2018年07月20日：没有
+2018-09-04: Earth has not exploded.
 
-2018年07月21日：没有
+2018-09-05: Earth has not exploded.
 
-2018年07月22日：没有
+2018-09-06: Earth has not exploded.
 
-2018年07月23日：没有
+2018-09-07: Earth has not exploded.
 
-2018年07月24日：没有
+2018-09-08: Earth has not exploded.
 
-2018年07月25日：没有
+2018-09-09: Earth has not exploded.
 
-2018年07月26日：没有
+2018-09-10: Earth has not exploded.
 
-2018年07月27日：没有
+2018-09-11: Earth has not exploded.
 
-2018年07月28日：没有
+2018-09-12: Earth has not exploded.
 
-2018年07月29日：没有
+2018-09-13: Earth has not exploded.
 
-2018年07月30日：没有
+2018-09-14: Earth has not exploded.
 
-2018年07月31日：没有
+2018-09-15: Earth has not exploded.
 
-2018年08月01日：没有
+2018-09-16: Earth has not exploded.
 
-2018年08月02日：没有
+2018-09-17: Earth has not exploded.
 
-2018年08月03日：没有
+2018-09-18: Earth has not exploded.
 
-2018年08月04日：没有
+2018-09-19: Earth has not exploded.
 
-2018年08月05日：没有
+2018-09-20: Earth has not exploded.
 
-2018年08月06日：没有
+2018-09-21: Earth has not exploded.
 
-2018年08月07日：没有
+2018-09-22: Earth has not exploded.
 
-2018年08月08日：没有
+2018-09-23: Earth has not exploded.
 
-2018年08月09日：没有
+2018-09-24: Earth has not exploded.
 
-2018年08月10日：没有
+2018-09-25: Earth has not exploded.
 
-2018年08月11日：没有
+2018-09-26: Earth has not exploded.
 
-2018年08月12日：没有
+2018-09-27: Earth has not exploded.
 
-2018年08月13日：没有
+2018-09-28: Earth has not exploded.
 
-2018年08月14日：没有
+2018-09-29: Earth has not exploded.
 
-2018年08月15日：没有
+2018-09-30: Earth has not exploded.
 
-2018年08月16日：没有
+2018-10-01: Earth has not exploded.
 
-2018年08月17日：没有
+2018-10-02: Earth has not exploded.
 
-2018年08月18日：没有
+2018-10-03: Earth has not exploded.
 
-2018年08月19日：没有
+2018-10-04: Earth has not exploded.
 
-2018年08月20日：没有
+2018-10-05: Earth has not exploded.
 
-2018年08月21日：没有
+2018-10-06: Earth has not exploded.
 
-2018年08月22日：没有
+2018-10-07: Earth has not exploded.
 
-2018年08月23日：没有
+2018-10-08: Earth has not exploded.
 
-2018年08月24日：没有
+2018-10-09: Earth has not exploded.
 
-2018年08月25日：没有
+2018-10-10: Earth has not exploded.
 
-2018年08月26日：没有
+2018-10-11: Earth has not exploded.
 
-2018年08月27日：没有
+2018-10-12: Earth has not exploded.
 
-2018年08月28日：没有
+2018-10-13: Earth has not exploded.
 
-2018年08月29日：没有
+2018-10-14: Earth has not exploded.
 
-2018年08月30日：没有
+2018-10-15: Earth has not exploded.
 
-2018年08月31日：没有
+2018-10-16: Earth has not exploded.
 
-2018年09月01日：没有
+2018-10-17: Earth has not exploded.
 
-2018年09月02日：没有
+2018-10-18: Earth has not exploded.
 
-2018年09月03日：没有
+2018-10-19: Earth has not exploded.
 
-2018年09月04日：没有
+2018-10-20: Earth has not exploded.
 
-2018年09月05日：没有
+2018-10-21: Earth has not exploded.
 
-2018年09月06日：没有
+2018-10-22: Earth has not exploded.
 
-2018年09月07日：没有
+2018-10-23: Earth has not exploded.
 
-2018年09月08日：没有
+2018-10-24: Earth has not exploded.
 
-2018年09月09日：没有
+2018-10-25: Earth has not exploded.
 
-2018年09月10日：没有
+2018-10-26: Earth has not exploded.
 
-2018年09月11日：没有
+2018-10-27: Earth has not exploded.
 
-2018年09月12日：没有
+2018-10-28: Earth has not exploded.
 
-2018年09月13日：没有
+2018-10-29: Earth has not exploded.
 
-2018年09月14日：没有
+2018-10-30: Earth has not exploded.
 
-2018年09月15日：没有
+2018-10-31: Earth has not exploded.
 
-2018年09月16日：没有
+2018-11-01: Earth has not exploded.
 
-2018年09月17日：没有
+2018-11-02: Earth has not exploded.
 
-2018年09月18日：没有
+2018-11-03: Earth has not exploded.
 
-2018年09月19日：没有
+2018-11-04: Earth has not exploded.
 
-2018年09月20日：没有
+2018-11-05: Earth has not exploded.
 
-2018年09月21日：没有
+2018-11-06: Earth has not exploded.
 
-2018年09月22日：没有
+2018-11-07: Earth has not exploded.
 
-2018年09月23日：没有
+2018-11-08: Earth has not exploded.
 
-2018年09月24日：没有
+2018-11-09: Earth has not exploded.
 
-2018年09月25日：没有
+2018-11-10: Earth has not exploded.
 
-2018年09月26日：没有
+2018-11-11: Earth has not exploded.
 
-2018年09月27日：没有
+2018-11-12: Earth has not exploded.
 
-2018年09月28日：没有
+2018-11-13: Earth has not exploded.
 
-2018年09月29日：没有
+2018-11-14: Earth has not exploded.
 
-2018年09月30日：没有
+2018-11-15: Earth has not exploded.
 
-2018年10月01日：没有
+2018-11-16: Earth has not exploded.
 
-2018年10月02日：没有
+2018-11-17: Earth has not exploded.
 
-2018年10月03日：没有
+2018-11-18: Earth has not exploded.
 
-2018年10月04日：没有
+2018-11-19: Earth has not exploded.
 
-2018年10月05日：没有
+2018-11-20: Earth has not exploded.
 
-2018年10月06日：没有
+2018-11-21: Earth has not exploded.
 
-2018年10月07日：没有
+2018-11-22: Earth has not exploded.
 
-2018年10月08日：没有
+2018-11-23: Earth has not exploded.
 
-2018年10月09日：没有
+2018-11-24: Earth has not exploded.
 
-2018年10月10日：没有
+2018-11-25: Earth has not exploded.
 
-2018年10月11日：没有
+2018-11-26: Earth has not exploded.
 
-2018年10月12日：没有
+2018-11-27: Earth has not exploded.
 
-2018年10月13日：没有
+2018-11-28: Earth has not exploded.
 
-2018年10月14日：没有
+2018-11-29: Earth has not exploded.
 
-2018年10月15日：没有
+2018-11-30: Earth has not exploded.
 
-2018年10月16日：没有
+2018-12-01: Earth has not exploded.
 
-2018年10月17日：没有
+2018-12-02: Earth has not exploded.
 
-2018年10月18日：没有
+2018-12-03: Earth has not exploded.
 
-2018年10月19日：没有
+2018-12-04: Earth has not exploded.
 
-2018年10月20日：没有
+2018-12-05: Earth has not exploded.
 
-2018年10月21日：没有
+2018-12-06: Earth has not exploded.
 
-2018年10月22日：没有
+2018-12-07: Earth has not exploded.
 
-2018年10月23日：没有
+2018-12-08: Earth has not exploded.
 
-2018年10月24日：没有
+2018-12-09: Earth has not exploded.
 
-2018年10月25日：没有
+2018-12-10: Earth has not exploded.
 
-2018年10月26日：没有
+2018-12-11: Earth has not exploded.
 
-2018年10月27日：没有
+2018-12-12: Earth has not exploded.
 
-2018年10月28日：没有
+2018-12-13: Earth has not exploded.
 
-2018年10月29日：没有
+2018-12-14: Earth has not exploded.
 
-2018年10月30日：没有
+2018-12-15: Earth has not exploded.
 
-2018年10月31日：没有
+2018-12-16: Earth has not exploded.
 
-2018年11月01日：没有
+2018-12-17: Earth has not exploded.
 
-2018年11月02日：没有
-
-2018年11月03日：没有
-
-2018年11月04日：没有
-
-2018年11月05日：没有
-
-2018年11月06日：没有
-
-2018年11月07日：没有
-
-2018年11月08日：没有
-
-2018年11月09日：没有
-
-2018年11月10日：没有
-
-2018年11月11日：没有
-
-2018年11月12日：没有
-
-2018年11月13日：没有
-
-2018年11月14日：没有
-
-2018年11月15日：没有
-
-2018年11月16日：没有
-
-2018年11月17日：没有
-
-2018年11月18日：没有
+2018-12-18: Earth has not exploded.
 
