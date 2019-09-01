@@ -574,3 +574,5 @@ Has Earth exploded today?
 
 2019-08-31: Earth has not exploded.
 
+2019-09-01: Earth has not exploded.
+
