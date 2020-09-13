@@ -600,3 +600,5 @@ Has Earth exploded today?
 
 2020-09-12: Earth has not exploded.
 
+2020-09-13: Earth has not exploded.
+
