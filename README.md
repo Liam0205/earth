@@ -798,3 +798,5 @@ Has Earth exploded today?
 
 2020-12-20: Earth has not exploded.
 
+2020-12-21: Earth has not exploded.
+
