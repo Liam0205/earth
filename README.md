@@ -938,3 +938,5 @@ Has Earth exploded today?
 
 2021-02-28: Earth has not exploded.
 
+2021-03-01: Earth has not exploded.
+
